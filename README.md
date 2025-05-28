@@ -12,8 +12,7 @@ This repo contains all tasks completed during the internship, structured for eas
 | Task 1 | [TITANIC SURVIVAL PREDICTION]           | It predicts whether a passenger on the Titanic survived or not. |
 | Task 2 | [MOVIE RATING PREDICTION WITH PYTHON]           | It predicts the rating of a movie based on features like genre, director, and actors. |
 | Task 3 | [IRIS FLOWER CLASSIFICATION]           | classify the Iris flowers into their respective species.|
-| Task 4 | [CREDIT CARD FRAUD DETECTION]          | It  identifies fraudulent credit card | 
-transactions.
+| Task 4 | [CREDIT CARD FRAUD DETECTION]          | It  identifies fraudulent credit card transactions. |
 ## 📌 Structure
 
 Each task is stored in its own folder:
